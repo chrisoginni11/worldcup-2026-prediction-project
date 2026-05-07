@@ -2,9 +2,11 @@
 
 A data science project built in Python predicting the outcome of the 2026 FIFA World Cup using Monte Carlo simulation.
 
+👉 [View the full notebook here](worldcup_2026.ipynb)
+
 ## What this project does
 
-- Loads a dataset of all 48 qualified nations with FIFA rankings, World Cup titles, appearances, and squad depth scores
+- Loads a dataset of the top international contenders with FIFA rankings, World Cup titles, appearances, and squad depth scores
 - Builds a weighted prediction model using historical performance and current form
 - Runs 10,000 simulated tournaments using Monte Carlo simulation
 - Visualizes win probabilities, squad depth, 2022 results, and my personal prediction vs the model
@@ -16,7 +18,7 @@ A data science project built in Python predicting the outcome of the 2026 FIFA W
 | 🥇 Winner | Portugal |
 | 🥈 Runner up | France |
 | 🥉 3rd | Spain |
-| 4th | England |
+| 4️⃣ 4th | England |
 
 The model disagreed — it favored France and Brazil. The write-up in the notebook explains why I pushed back.
 
